@@ -1,0 +1,116 @@
+h1{
+    /* padding: 80px; */
+    padding-top:10px;
+    font-weight: bold;
+    font-style:italic;
+    font-size: 30px;
+}
+body{
+    outline: dotted 1px orange;
+}
+#cake{
+    display: block;
+    margin: auto;
+    padding-bottom: 25px;
+}
+#list{
+    display: block;
+    margin: auto;
+    padding-bottom: 25px;
+}
+p{
+    width: 900px;
+    text-align: left;
+    text-indent: 39px;
+    margin: auto;
+    padding-top: 10px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    color:grey;
+}
+.ing1{
+    position: absolute;
+    top: 319mm;
+    left: 330px;
+    font-size: 25px;
+    color: grey;
+    line-height: 30px;
+}
+.ing2{
+    position: absolute;
+    top: 319mm;
+    left: 200mm;
+    font-size: 25px;
+    color: grey;
+    line-height: 30px;
+
+}
+footer{
+    text-align: center;
+    padding-bottom: 10mm;
+    padding-top: 10mm;
+    line-height: 20px;
+    color: gray;
+    opacity: 0.5;
+    filter: blur(opacity=50);
+}
+#small{
+    padding-bottom: 10px;
+}
+
+/* .flex{
+display: flex;
+flex-wrap: wrap;
+float: right;
+} */
+#van1{
+    padding-left: 70mm;
+    float:left;
+}
+#end{
+    text-align: left;
+    font-size: 20px;
+    line-height: 25px;
+}
+#line{
+    word-spacing: 0px;
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+    filter: blur(opacity=50);
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 70mm;
+
+}
+#vanessa{
+    padding-left:30mm;
+    padding-bottom: 0;
+}
+h3{
+    font-size: 10mm;
+    font-weight: bolder;
+    font-style: normal;
+    padding-left: 70mm;
+}
+#line1{
+    word-spacing: 0px;
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+    filter: blur(opacity=50);
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 70mm;
+}
+a{
+    float:right;
+    
+}
+header{
+    width:900px;
+    padding-left: 50mm;
+}
+#icon{
+    float:right;
+}
